@@ -54,6 +54,8 @@ Product Category
 	* Report System
 		* OLAP System
 		* Realtime Report System
+		* Report Toolkit
+		* Report Designer
 	* Analysis System
 		* Offline Bigdata Anaiysis System
 		* Realtime Analysis System
@@ -63,7 +65,8 @@ Product Category
 		* ETL System
 		* Monitoring System
 		* Schduling System
-	* Modeling
+		* Programming API
+	* Business Modeling
 			
 Action
 ------
