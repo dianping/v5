@@ -48,7 +48,22 @@ Product Category
 	* Project Management
 		* Communication Tools
 * Data
-	* TBD
+	* Adhoc Query System
+		* Query Engine
+		* Realtime Query System
+	* Report System
+		* OLAP System
+		* Realtime Report System
+	* Analysis System
+		* Offline Bigdata Anaiysis System
+		* Realtime Analysis System
+	* Auxiliary System
+		* ACL System
+		* Metadata System
+		* ETL System
+		* Monitoring System
+		* Schduling System
+	* Modeling
 			
 Action
 ------
